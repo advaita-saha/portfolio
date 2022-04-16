@@ -233,10 +233,10 @@ const blogSection = {
     },
     {
       url:
-        "https://blog.bharatkammakatla.com/steps-to-build-a-selenium-java-framework-ckdsi73xg005ga9s1defhemfz",
-      title: "Steps to build a Selenium Java Automation Framework",
+        "https://www.linkedin.com/posts/advaita-saha_opensourcesoftware-blockchain-web3-activity-6920273603917668352-Lz6u/",
+      title: "Innerve6.0 : Hackthon Experience",
       description:
-        "Interested in building a test automation framework with selenium and java? If so, check out here !",
+        "Experience is the teacher of all things. My experince over my first offline hackthon in college life",
     },
   ],
 };
