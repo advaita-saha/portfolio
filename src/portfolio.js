@@ -11,7 +11,7 @@ const greeting = {
     "Blockchain Developer 👨‍💻 | Flutter Developer 🤖 | ML Enthusiast ✍️ "
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1A9xuW7_YWO6GjOLvAEnz2vg7483BKpRc/view?usp=sharing",
+    "https://drive.google.com/file/d/1IyPFR3i-CzY3Z2lLJtTvrIKgKMal17L8/view?usp=sharing",
 };
 
 // Your Social Media Link
