@@ -119,7 +119,7 @@ const workExperiences = {
     {
       role: "Blockchain Developer Intern",
       company: "Dwarf AI",
-      companylogo: require("./assets/images/1628187592207.png"),
+      companylogo: require("./assets/images/1628187592207.jpeg"),
       date: "May 2022 – Present",
       // desc:
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
