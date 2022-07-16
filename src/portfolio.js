@@ -121,8 +121,8 @@ const workExperiences = {
       company: "StatesDAO",
       companylogo: require("./assets/images/sdlogo.jpeg"),
       date: "July 2022 – Present",
-      // desc:
-      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc:
+        "I will be completing their fellowship program for 3-months, working on cutting edge DeFi, DID and NFT protocols for different blockchain networks.",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -135,10 +135,11 @@ const workExperiences = {
       date: "May 2022 – Present",
       // desc:
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      // descBullets: [
-      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      // ],
+      descBullets: [
+        "Developing the smart-contract in factory pattern for their fantasy gaming app",
+        "Writing tests for their smart-contract",
+        "Integrating smart-contract with their app",
+      ],
     },
   ],
 };
