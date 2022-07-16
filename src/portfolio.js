@@ -11,7 +11,7 @@ const greeting = {
     "Blockchain Developer 👨‍💻 | Flutter Developer 🤖 | ML Enthusiast ✍️ "
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1IyPFR3i-CzY3Z2lLJtTvrIKgKMal17L8/view?usp=sharing",
+    "https://drive.google.com/file/d/1T2o-pz61EROzd_y9TpX8ZXa0e0c-b7cN/view?usp=sharing",
 };
 
 // Your Social Media Link
@@ -29,7 +29,7 @@ const socialMediaLinks = {
 const skillsSection = {
   title: "What i do ?",
   subTitle:
-    "Building Products for the Metaverse | Bringing the power of blockhain in the palm of your hands",
+    "Building Products for the Metaverse | Bringing the power of blockchain in the palm of your hands",
   skills: [
     emoji(
       "⚡ Designing & Writing Smart-Contracts for blockchain networks along with extensive tests"
@@ -116,6 +116,18 @@ const skillsSection = {
 const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
+    {
+      role: "Fellowship ( SDF 2 )",
+      company: "StatesDAO",
+      companylogo: require("./assets/images/sdlogo.jpeg"),
+      date: "July 2022 – Present",
+      // desc:
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      // descBullets: [
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      // ],
+    },
     {
       role: "Blockchain Developer Intern",
       company: "Dwarf AI",
@@ -221,6 +233,27 @@ const blogSection = {
       title: "Innerve6.0 : Hackthon Experience",
       description:
         "Experience is the teacher of all things. My experince over my first offline hackthon in college life",
+    },
+    {
+      url:
+        "https://www.linkedin.com/posts/advaita-saha_blockchaindevelopment-blockchain-ethereum-activity-6945755694675443713-Yt-C?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      title: "Why Blockchain Development?",
+      description:
+        "Blockchain technology is still in the nascent phase and will grow rapidly, improving demand for the best ones out there.",
+    },
+    {
+      url:
+        "https://www.linkedin.com/posts/advaita-saha_developer-wellbeing-mentalhealth-activity-6951848404092100608-SJ9p?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      title: "Developer Burnout",
+      description:
+        "It seems that developers, programmers, and software engineers are at a higher risk of burning out than those working in some other industries",
+    },
+    {
+      url:
+        "https://www.linkedin.com/posts/advaita-saha_30daysofgooglecloud-web3-web3-activity-6939632464055136256-4Eu2?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      title: "1st Year of College Experience",
+      description:
+        "In short it was a hell of a roller-coaster ride, If I were to go back and make any changes to what I did, the only thing would have done is starting more early",
     },
   ],
 };
