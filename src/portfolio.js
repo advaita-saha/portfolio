@@ -117,10 +117,36 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Blockchain Developer Intern",
+      company: "Nethermind",
+      companylogo: require("./assets/images/nethermind.jpeg"),
+      date: "Sept 2022 – Dec 2022",
+      desc:
+        "Working on the ethereum chain and it's merge, DeFi protocols and no-loss bots, and smart contracts security",
+      // descBullets: [
+      //   "Developing the smart-contract for supply chain management",
+      //   "Writing tests for their smart-contract",
+      //   "Integrating smart-contract with their app",
+      // ],
+    },
+    {
+      role: "Freelance Blockchain Developer",
+      company: "aQb Solutions Pvt Ltd",
+      companylogo: require("./assets/images/aqb.jpeg"),
+      date: "July 2022 – August 2022",
+      // desc:
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      descBullets: [
+        "Developing the smart-contract for supply chain management",
+        "Writing tests for their smart-contract",
+        "Integrating smart-contract with their app",
+      ],
+    },
+    {
       role: "Fellowship ( SDF 2 )",
       company: "StatesDAO",
       companylogo: require("./assets/images/sdlogo.jpeg"),
-      date: "July 2022 – Present",
+      date: "July 2022 – Sept 2022",
       desc:
         "I will be completing their fellowship program for 3-months, working on cutting edge DeFi, DID and NFT protocols for different blockchain networks.",
       // descBullets: [
@@ -219,8 +245,22 @@ const blogSection = {
   title: "Blogs",
   subtitle:
     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
-
+    
   blogs: [
+    {
+      url:
+        "https://www.linkedin.com/posts/advaita-saha_blockchain-internship-web3-activity-6958767897284345856-V8GZ",
+      title: "Dreams do come true 🔥. Got selected as Intern at Nethermind 🚀.",
+      description:
+        "How I got selected as an Intern in the biggest blockchain company in the world, Nethermind.",
+    },
+    {
+      url:
+        "https://www.linkedin.com/posts/advaita-saha_job-earning-freelance-activity-6954099295117533184-yUW0",
+      title: "6-figure income 🚀 by the end of my 1st year ? What? 🧐 How? 🤔",
+      description:
+        "A guide to making your first lakh as a 1st year college student",
+    },
     {
       url:
         "https://advaitasaha.medium.com/git-github-basic-to-advanced-3a7f7813e750",
