@@ -21,7 +21,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/advaita-saha",
   gmail: "saha.advaita@gmail.com",
   //facebook: "https://www.facebook.com/bharat.kammakatla",
-  twitter: "https://twitter.com/Advaita_Saha",
+  twitter: "https://twitter.com/0xadvaita",
 };
 
 // Your Skills Section
