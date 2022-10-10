@@ -272,7 +272,7 @@ const blogSection = {
         "https://www.linkedin.com/posts/advaita-saha_blockchain-internship-web3-activity-6958767897284345856-V8GZ",
       title: "Dreams do come true 🔥. Got selected as Intern at Nethermind 🚀.",
       description:
-        "How I got selected as an Intern in the biggest blockchain company in the world, Nethermind.",
+        "How I got selected as an Intern in on of the biggest blockchain company in the world, Nethermind.",
     },
     {
       url:
