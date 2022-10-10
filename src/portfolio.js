@@ -250,7 +250,7 @@ const blogSection = {
     {
       url:
         "https://www.linkedin.com/posts/advaita-saha_mentalhealth-mentalhealthawareness-hustleculture-activity-6985266802410840064-JfHG?utm_source=share&utm_medium=member_desktop",
-      title: "Mental Health Awareness",
+      title: "🧘‍♀️ Mental Health Awareness",
       description:
         "How to maintain a good mental health in a high growth environment & the hustle culture.",  
     },
@@ -264,7 +264,7 @@ const blogSection = {
     {
       url:
         "https://www.linkedin.com/posts/advaita-saha_server-apple-macbook-activity-6971724437767221248-3SrG?utm_source=share&utm_medium=member_desktop",
-      title: "Home NAS Server",
+      title: "☁️ Home NAS Server",
       description: "My macbook storage was filling up, so built an amazing solution, which integrates very smoothly",
     },
     {
