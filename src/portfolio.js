@@ -249,6 +249,13 @@ const blogSection = {
   blogs: [
     {
       url:
+        "https://www.linkedin.com/posts/advaita-saha_mentalhealth-mentalhealthawareness-hustleculture-activity-6985266802410840064-JfHG?utm_source=share&utm_medium=member_desktop",
+      title: "Mental Health Awareness",
+      description:
+        "How to maintain a good mental health in a high growth environment & the hustle culture.",  
+    },
+    {
+      url:
         "https://www.linkedin.com/posts/advaita-saha_blockchain-internship-web3-activity-6958767897284345856-V8GZ",
       title: "Dreams do come true 🔥. Got selected as Intern at Nethermind 🚀.",
       description:
