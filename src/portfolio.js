@@ -297,13 +297,6 @@ const blogSection = {
     },
     {
       url:
-        "https://www.linkedin.com/posts/advaita-saha_blockchaindevelopment-blockchain-ethereum-activity-6945755694675443713-Yt-C?utm_source=linkedin_share&utm_medium=member_desktop_web",
-      title: "Why Blockchain Development?",
-      description:
-        "Blockchain technology is still in the nascent phase and will grow rapidly, improving demand for the best ones out there.",
-    },
-    {
-      url:
         "https://www.linkedin.com/posts/advaita-saha_developer-wellbeing-mentalhealth-activity-6951848404092100608-SJ9p?utm_source=linkedin_share&utm_medium=member_desktop_web",
       title: "Developer Burnout",
       description:
