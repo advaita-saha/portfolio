@@ -256,6 +256,18 @@ const blogSection = {
     },
     {
       url:
+        "https://www.linkedin.com/posts/advaita-saha_google-googleplay-googleplaystore-activity-6976796760836845568-ME8K?utm_source=share&utm_medium=member_desktop",
+      title: "🥳 Featured at the Google Play Academy",
+      description:
+        "I was featured by Google at the Google Play Academy website"
+    },
+    {
+      url:
+        "https://www.linkedin.com/posts/advaita-saha_server-apple-macbook-activity-6971724437767221248-3SrG?utm_source=share&utm_medium=member_desktop",
+      title: "",
+    },
+    {
+      url:
         "https://www.linkedin.com/posts/advaita-saha_blockchain-internship-web3-activity-6958767897284345856-V8GZ",
       title: "Dreams do come true 🔥. Got selected as Intern at Nethermind 🚀.",
       description:
