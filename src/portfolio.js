@@ -264,7 +264,8 @@ const blogSection = {
     {
       url:
         "https://www.linkedin.com/posts/advaita-saha_server-apple-macbook-activity-6971724437767221248-3SrG?utm_source=share&utm_medium=member_desktop",
-      title: "",
+      title: "Home NAS Server",
+      description: "My macbook storage was filling up, so built an amazing solution, which integrates very smoothly",
     },
     {
       url:
